@@ -20,11 +20,13 @@ access_token = "YOUR_ACCESS_TOKEN"
 access_token_secret = "YOUR_ACCESS_TOKEN_SECRET"
 
 Usage
+
 To run the script, simply navigate to the directory where the script is located and run the following command:
 python flight_tracker.py
 The script will start fetching flight data from the XML feed and posting tweets for flight arrivals and departures.
 
 Customization
+
 You can customize the behavior of the script by modifying the following variables:
 
 flight_status: A dictionary that keeps track of the flight status.
