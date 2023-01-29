@@ -1,6 +1,6 @@
 #### Flight Tracker Twitter Bot
 
-This is a Python script that fetches flight data from an XML feed and posts a tweet for flight arrivals and departures. The script also checks the difference between the scheduled and actual times for each flight.
+This is a Python script that fetches flight data from an XML feed and posts a tweet for flight arrivals and departures at Bergen Airport Flesland. The script uses Avinor's flight data API.
 
 ##### Prerequisites
   - Python 3.x
