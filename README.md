@@ -33,3 +33,5 @@ flight_status: A dictionary that keeps track of the flight status.
 tweeted_flights: A set that keeps track of the flights that have been tweeted about.
 latest_tweet_time: A variable that keeps track of the latest tweet time.
 You can also customize the message format and hashtags of the tweet by modifying the text in the api.update_status method.
+
+Live example: https://twitter.com/BGO_flights
